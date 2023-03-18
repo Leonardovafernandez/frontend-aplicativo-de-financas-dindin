@@ -1,0 +1,39 @@
+.button-category {
+  height: 20px;
+  width: auto;
+  border-radius: 10px;
+  border: none;
+  background-color: rgba(250, 250, 250, 1);
+  box-shadow: 1px 1px 10px -7px;
+  font-family: Rubik;
+  font-size: 10px;
+  font-weight: 500;
+  line-height: 12px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.button-category:hover {
+  opacity: .85;
+}
+
+.button-onclick {
+  height: 20px;
+  width: auto;
+  border-radius: 10px;
+  border: none;
+  background-color: rgba(121, 120, 217, 1);
+  box-shadow: 1px 1px 10px -7px;
+  font-family: Rubik;
+  font-size: 10px;
+  font-weight: 500;
+  line-height: 12px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.button-onclick:hover {
+  opacity: .85;
+}

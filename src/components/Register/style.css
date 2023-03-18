@@ -1,0 +1,17 @@
+.register {
+  text-align: center;
+  position: relative;
+}
+
+.register-display {
+  height: 58px;
+  color: black;
+  border-bottom: 1px solid rgba(229, 229, 229, 1);
+  padding-left: 27.35px;
+  padding-right: 27.35px;
+
+}
+
+.icons {
+  gap: 13px;
+}

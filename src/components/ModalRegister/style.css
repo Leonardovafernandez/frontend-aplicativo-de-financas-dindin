@@ -1,0 +1,36 @@
+.main {
+  text-align: center;
+}
+
+.button-type {
+  height: 56px;
+  width: 100%;
+  font-family: 'Rubik', sans-serif;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 16.59px;
+}
+
+.entrada {
+  width: 50%;
+  height: 100%;
+  border-radius: 5px;
+  border: none;
+  background-color: rgba(185, 185, 185, 1);
+}
+
+.saida {
+  width: 50%;
+  height: 100%;
+  border-radius: 5px;
+  border: none;
+  background-color: rgba(185, 185, 185, 1);
+}
+
+.bg-blue {
+  background-color: rgba(58, 159, 241, 1);
+}
+
+.bg-red {
+  background-color: rgba(255, 87, 107, 1);
+}

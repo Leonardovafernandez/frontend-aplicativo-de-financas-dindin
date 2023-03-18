@@ -1,0 +1,27 @@
+.purple {
+    color: rgba(121, 120, 217, 1);
+}
+
+.white {
+    color: rgba(255, 255, 255, 1);
+}
+
+.black {
+    color: rgba(0, 0, 0, 1);
+}
+
+.gray {
+    color: rgba(72, 72, 72, 1);
+}
+
+.violet {
+    color: rgba(100, 95, 251, 1);
+}
+
+.orange {
+    color: rgba(250, 140, 16, 1);
+}
+
+.blue {
+    color: rgba(58, 159, 241, 1);
+}

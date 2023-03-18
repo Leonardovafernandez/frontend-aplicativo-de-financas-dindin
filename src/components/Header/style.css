@@ -1,0 +1,19 @@
+.header {
+  text-align: center;
+  background-image: url('../../assets/Header.png');
+  background-size: cover;
+  height: 224px;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-top: 36px;
+
+}
+
+.logo img {
+  height: 45px;
+  width: 169px;
+}
+
+nav span {
+  margin-right: 16px;
+}

@@ -1,0 +1,63 @@
+.tittle {
+    font-family: 'Rubik', sans-serif;
+    font-weight: 700;
+    font-size: 52px;
+}
+
+.subtittle {
+    font-family: 'Rubik', sans-serif;
+    font-weight: 400;
+    font-size: 28px;
+}
+
+.tittle-box {
+    font-family: 'Rubik', sans-serif;
+    font-weight: 700;
+    font-size: 28px;
+}
+
+.label-box {
+    font-family: 'Rubik', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+}
+
+.span-display {
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+}
+
+.tittle-resume {
+    font-family: 'Rubik', sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+}
+
+.subtittle-resume {
+    font-family: 'Rubik', sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+}
+
+.span-resume {
+    font-family: 'Rubik', sans-serif;
+    font-weight: 500;
+    font-size: 13px;
+}
+
+.tittle-modal {
+    font-family: 'Rubik', sans-serif;
+    font-weight: 700;
+    font-size: 36px;
+}
+
+.label-modal {
+    font-family: 'Rubik', sans-serif;
+    font-weight: 500;
+    font-size: 24px;
+}
+
+.bold {
+    font-weight: 700;
+}

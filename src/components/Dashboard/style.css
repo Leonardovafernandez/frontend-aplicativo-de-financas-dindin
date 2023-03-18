@@ -1,0 +1,30 @@
+.dashboard {
+  background-image: url('../../assets/Dashboard-bg.png');
+  background-size: cover;
+  width: 100vw;
+  padding-top: 55px;
+  padding-left: 105px;
+  padding-right: 100px;
+  position: fixed;
+  top: 118px;
+}
+
+.dashboard-box {
+  width: 100%;
+  gap: 40px;
+}
+
+.dashboard-register {
+  width: 80%;
+  gap: 24px;
+}
+
+.dashboard-card {
+  padding-top: 55px;
+  width: 20%;
+}
+
+
+.icons {
+  width: 61px;
+}
