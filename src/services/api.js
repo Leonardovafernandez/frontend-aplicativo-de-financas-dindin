@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 export default axios.create({
-    baseURL: 'http://localhost:3001',
+    baseURL: 'https://desafio-backend-03-dindin.pedagogico.cubos.academy',
     timeout: 10000,
     headers: {
         'Content-Type': 'application/json',
@@ -9,3 +9,5 @@ export default axios.create({
         "Access-Control-Allow-Methods": "GET,PUT,POST,DELETE,PATCH,OPTIONS"
     }
 })
+
+//http://localhost:3001
